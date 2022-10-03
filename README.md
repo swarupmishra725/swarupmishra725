@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swarup Mishra from Bhubaneswar, Odisha.
-- 👀 I’m interested in JSP and Cyber Security.
-- 🌱 I’m currently learning JSP.
-- 💞️ I’m looking to collaborate on internships regarding JSP .
+- 👀 I’m interested in Full Stack Development and Cyber Security.
+- 🌱 I’m currently learning Full Stack Development in MERN.
+- 💞️ I’m looking to collaborate on internships regarding React JS .
 - 📫To reach me mail me on mishraswarup279@gmail.com or on call or whats app on 9348450774
 
 <!---
